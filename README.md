@@ -1,0 +1,4 @@
+sigetdata
+=========
+
+Abfrage der Datenquelle
